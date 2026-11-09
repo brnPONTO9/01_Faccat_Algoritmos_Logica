@@ -11,5 +11,3 @@ Resolução em Java dos exercícios da apostila "Exercícios de Lógica de Progr
     javac -encoding UTF-8 -d out *.java
     java -cp out Ex01
 
-## Autoria e ajuda externa
-(preencha conforme a regra do curso)
